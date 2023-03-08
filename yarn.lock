@@ -716,10 +716,10 @@
     tslib "2.4.0"
     uuid "8.3.2"
 
-"@nestjs/core@^9.0.0":
-  version "9.0.3"
-  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-9.0.3.tgz#c3686c92329cbd1fcfcba1c9fe98edc4d19e3b01"
-  integrity sha512-TFXCfcqt1FqN/54hrrfdLZgAroDjqbkJ8mDcFiD4JFuQGIHkgofXXEtjfwPAEfR41RLxB8612Pf0UjI4bag4Vw==
+"@nestjs/core@^9.0.5":
+  version "9.0.5"
+  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-9.0.5.tgz#b4cb8f8b0c1d234a840f06e265717d4a24f8d224"
+  integrity sha512-41BBJlsquasVrGeRWNYb74Fwsc+oB5EmKC/hioQJAhGqIw5Kr5AcdEoEFaMKFzNLAPbU6c/nVW8T8CrvtQbQww==
   dependencies:
     "@nuxtjs/opencollective" "0.3.2"
     fast-safe-stringify "2.1.1"
@@ -4749,9 +4749,9 @@ typescript@4.7.4:
   integrity sha512-C0WQT0gezHuw6AdY1M2jxUO83Rjf0HP7Sk1DtXj6j1EwkQNZrHAg2XPWlq62oqEhYvONq5pkC2Y9oPljWToLmQ==
 
 typescript@^4.7.7:
-  version "4.8.0-dev.20220716"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.8.0-dev.20220716.tgz#d656a9059c6d18e9967f2fb416899bb3dc74df7e"
-  integrity sha512-QveOpAVFRuMswqQcWa9dAboKXt6YW/Zg5NDOMrw3RoG/WvWlPZZaDEAT5tm/MDdbWJcYD8Hyf9yROjcE2o7OJw==
+  version "4.9.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
+  integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
 universalify@^2.0.0:
   version "2.0.0"
